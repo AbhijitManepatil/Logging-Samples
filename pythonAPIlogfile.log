@@ -1,0 +1,17 @@
+2022-07-29 13:27:52,107 : INFO : __main__ : Information message
+2022-07-29 13:27:52,108 : WARNING : __main__ : Warning message
+2022-07-29 13:27:52,108 : ERROR : __main__ : A major error
+2022-07-29 13:27:52,108 : CRITICAL : __main__ : Critical issue
+2022-07-29 13:30:11,401 : DEBUG : __main__ : A debug statement
+2022-07-29 13:30:11,401 : INFO : __main__ : Information message
+2022-07-29 13:30:11,401 : WARNING : __main__ : Warning message
+2022-07-29 13:30:11,401 : ERROR : __main__ : A major error
+2022-07-29 13:30:11,401 : CRITICAL : __main__ : Critical issue
+2022-07-29 13:34:23,510 : DEBUG : __main__ : A debug statement
+2022-07-29 13:34:23,511 : INFO : __main__ : Information message
+2022-07-29 13:34:23,511 : WARNING : __main__ : Warning message
+2022-07-29 13:34:23,511 : ERROR : __main__ : A major error
+2022-07-29 13:34:23,511 : CRITICAL : __main__ : Critical issue
+2022-07-29 13:35:01,600 : INFO : __main__ : I am from a Test Integration:
+2022-07-29 13:36:30,706 : INFO : loggerFileIntegrationDemo.py->myfun() : I am from a Test Integration:
+2022-07-29 13:36:53,728 : INFO : myfun() : I am from a Test Integration:
